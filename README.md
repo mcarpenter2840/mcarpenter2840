@@ -25,8 +25,6 @@ I am a Seasoned Windows DevOps Engineer with experience in network/system admini
     <img height="50" width="50" src="https://simpleicons.org/icons/powershell.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/chef.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/terraform.svg" style="vertical-align:top; margin:4px"/>
-</p>
-<p>
     <img height="50" width="50" src="https://simpleicons.org/icons/docker.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/kubernetes.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/chocolatey.svg" style="vertical-align:top; margin:4px"/>
