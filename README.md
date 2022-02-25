@@ -30,6 +30,8 @@ I am a Seasoned Windows DevOps Engineer with experience in network/system admini
     <img height="50" width="50" src="https://simpleicons.org/icons/chocolatey.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/jenkins.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/googlecloud.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/windows.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/linux.svg" style="vertical-align:top; margin:4px"/>
 </p>
 
 ### Reach me at
