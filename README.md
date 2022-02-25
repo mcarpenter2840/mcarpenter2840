@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 I am a Seasoned Windows DevOps Engineer with experience in network/system administration and Windows infrastructure engineering with a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
 
 ### Tech Stack
-
+<p>
 <img height="50" width="50" src="https://simpleicons.org/icons/amazonaws.svg" style="vertical-align:top; margin:4px"/>
 <img height="50" width="50" src="https://simpleicons.org/icons/ansible.svg"  style="vertical-align:top; margin:4px"/>
+</p>
 <img height="50" width="50" src="https://simpleicons.org/icons/microsoftazure.svg" />
 <img height="50" width="50" src="https://simpleicons.org/icons/powershell.svg" />
 <img height="50" width="50" src="https://simpleicons.org/icons/chef.svg" />
