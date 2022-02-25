@@ -19,8 +19,8 @@ I am a Seasoned Windows DevOps Engineer with experience in network/system admini
 
 ### Tech Stack
 
-<img height="50" width="50" src="https://simpleicons.org/icons/amazonaws.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/ansible.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/amazonaws.svg" style="vertical-align:top; margin:4px"/>
+<img height="50" width="50" src="https://simpleicons.org/icons/ansible.svg"  style="vertical-align:top; margin:4px"/>
 <img height="50" width="50" src="https://simpleicons.org/icons/microsoftazure.svg" />
 <img height="50" width="50" src="https://simpleicons.org/icons/powershell.svg" />
 <img height="50" width="50" src="https://simpleicons.org/icons/chef.svg" />
