@@ -19,18 +19,20 @@ I am a Seasoned Windows DevOps Engineer with experience in network/system admini
 
 ### Tech Stack
 <p>
-<img height="50" width="50" src="https://simpleicons.org/icons/amazonaws.svg" style="vertical-align:top; margin:4px"/>
-<img height="50" width="50" src="https://simpleicons.org/icons/ansible.svg"  style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/amazonaws.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/ansible.svg"  style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/microsoftazure.svg" style="vertical-align:top; margin:4px" />
+    <img height="50" width="50" src="https://simpleicons.org/icons/powershell.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/chef.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/terraform.svg" style="vertical-align:top; margin:4px"/>
 </p>
-<img height="50" width="50" src="https://simpleicons.org/icons/microsoftazure.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/powershell.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/chef.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/terraform.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/docker.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/kubernetes.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/chocolatey.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/jenkins.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/googlecloud.svg" />
+<p>
+    <img height="50" width="50" src="https://simpleicons.org/icons/docker.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/kubernetes.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/chocolatey.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/jenkins.svg" style="vertical-align:top; margin:4px"/>
+    <img height="50" width="50" src="https://simpleicons.org/icons/googlecloud.svg" style="vertical-align:top; margin:4px"/>
+</p>
 
 ### Reach me at
 
