@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Education
-#### **Bachelors in Applied Science in Computer Networking**
-**Davenport University, Grand Rapids, MI - June 2009**
+> #### **Bachelors in Applied Science in Computer Networking**
+> **Davenport University, Grand Rapids, MI - June 2009**
 
 ###### **Associates in Applied Science in Computer Information Systems**
 **Ivy Tech State College, Gary, IN - May 2003**
