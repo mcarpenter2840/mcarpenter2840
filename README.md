@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 > #### **Associates in Applied Science in Computer Information Systems**
 > **Ivy Tech State College, Gary, IN - May 2003**
 
+### Professional Experience
+
 ### Reach me at
 
 <a href="https://www.linkedin.com/in/marvincarpenter/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marvincarpenter-blue?style=flat&logo=linkedin"></a>
