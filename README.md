@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ### Professional Experience
 **Lead Systems Engineer** | **CME Group, Inc - Chicago, IL** | **4/2016 - Present**
+
 **Highlights:**
 - Automated deployments for Windows server fleet using PowerShell, Python, Groovy, and Jenkins Pipelines.
 - Developed Jenkins Pipeline for automating creation of Windows AWS AMIs.
