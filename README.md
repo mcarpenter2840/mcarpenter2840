@@ -47,15 +47,22 @@ Here are some ideas to get you started:
 
 **Highlights:**
 - [x] Automated deployments for Windows server fleet using PowerShell, Python, Groovy, and Jenkins Pipelines.
-- Developed Jenkins Pipeline for automating creation of Windows AWS AMIs.
-- Developed packer scripts for automating creation of Windows GCP images.
-- Developed Jenkins Pipeline for automating creation of Azure Service Fabric clusters.
-- Developed Service Management Automation workflows for automated server provisioning.
-- Developed Jenkins Pipeline to automate updating of third-party Chocolatey packages.
-- Developed PowerShell module that allows developers to manage Chef deployments in Dev/QA
-- Mentor, train and develop Junior and Senior Systems Administrators on the team.
-
-**
+- [x] Developed Jenkins Pipeline for automating creation of Windows AWS AMIs.
+- [x] Developed packer scripts for automating creation of Windows GCP images.
+- [x] Developed Jenkins Pipeline for automating creation of Azure Service Fabric clusters.
+- [x] Developed Service Management Automation workflows for automated server provisioning.
+- [x] Developed Jenkins Pipeline to automate updating of third-party Chocolatey packages.
+- [x] Developed PowerShell module that allows developers to manage Chef deployments in Dev/QA
+- [x] Mentor, train and develop Junior and Senior Systems Administrators on the team.
+-------------------------- ---------------------------------- ---------------------
+- Design, develop, test and document new automated solutions to improve current or create new processes using PowerShell.
+- Design, develop, test and document PowerShell modules and scripts to support fully automated deployments.
+- Design, develop, test and document Chef recipes and cookbooks for configuration management and automated server deployments.
+- Design, develop, test and document PowerShell Desired State Configuration scripts for configuration management and automated server deployments.
+- Design, develop, test and document Pester scripts and InSpec profiles to support test driven development.
+- Design, develop, test, and document Jenkins pipelines using PowerShell and Python.
+- Develop Windows software packages using Chocolatey.
+- Manage and maintain Git repositories for all PowerShell, Jenkins, Python and Chef projects.
 -------------------------- ---------------------------------- ---------------------
 #### **Lead Systems Engineer - CME Group - Chicago, IL - 4/2016 - Present**
 
