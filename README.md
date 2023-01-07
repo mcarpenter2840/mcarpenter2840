@@ -78,7 +78,25 @@ Here are some ideas to get you started:
 - Architecture, design, implementation, and administration of Windows Server 2012 R2 Hyper-V.
 - Architecture, design, implementation, and administration Microsoft System Center 2012 R2
   - Virtual Machine Manager, Configuration Manager, Service Manager
-
+-------------------------- ---------------------------------- ---------------------
+**Network Engineer** | **UGN, Inc - Tinley Park, IL** | **2006 - 2014**
+- Management and administration of Windows Server 2012 R2 Hyper-V Failover Cluster.
+  - Management and administration of System Center Virtual Machine Manager 2012 R2.
+  - Cluster consists of a three-node active/active/active Hyper-V cluster.
+  - One Hyper-V replica host.
+  - Hyper-V environment consists of 46 guests.
+  - Guest operating systems include Windows XP, Windows 7, Windows Server 2003, Windows Server 2008, and Windows Server 2012.
+- Management and administration of Microsoft Office 365 Enterprise 3 Subscription.
+  - Administration of Exchange 2013 Online.
+  - Management and administration of the on-premise Microsoft Exchange 2010 Hybrid Server.
+- Management and administration of Windows 2008 R2 Active Directory environment.
+  - Management and administration of Active Directory Users and Computers.
+  - Management and administration of Active Directory Sites and Services.
+  - Management and administration of Group Policy.
+  - Management and administration of DNS and DHCP.
+  - Management and administration of DFS Namespace and Replication.
+- Management and administration of VMWare Virtual Infrastructure.
+- Management and administration of VMWare ESXi 4.1 and 5.0 hosts.
 ### Reach me at
 
 <a href="https://www.linkedin.com/in/marvincarpenter/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marvincarpenter-blue?style=flat&logo=linkedin"></a>
