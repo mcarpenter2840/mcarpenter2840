@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 > **Ivy Tech State College, Gary, IN - May 2003**
 
 ### Professional Experience
+#### **Lead Systems Engineer - CME Group - Chicago, IL - 4/2016 - Present**
 
 ### Reach me at
 
