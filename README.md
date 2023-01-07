@@ -99,14 +99,14 @@ Here are some ideas to get you started:
 - Management and administration of VMWare ESXi 4.1 and 5.0 hosts.
 -------------------------- ---------------------------------- ---------------------
 **CINS/CINT Adjunct Faculty Member** | **Ivy Tech Community College - Gary, IN** | **1998 - Present**
-Courses Taught Include:
-- CINS101 - Introduction to Microcomputers
-- OAD201 Microsoft Office Excel
-- CINT106 Microcomputer Operating Systems
-- CINT220 Network Server Technology
-- CINS137 Introductory and CINS 237 Advanced Visual Basic
-- CINS136 Introductory and CINS236 Advanced Java Programming
-- CINT252 Routers & Firewalls
+- Courses Taught Include:
+  - CINS101 - Introduction to Microcomputers
+  - OAD201 Microsoft Office Excel
+  - CINT106 Microcomputer Operating Systems
+  - CINT220 Network Server Technology
+  - CINS137 Introductory and CINS 237 Advanced Visual Basic
+  - CINS136 Introductory and CINS236 Advanced Java Programming
+  - CINT252 Routers & Firewalls
 ### Reach me at
 
 <a href="https://www.linkedin.com/in/marvincarpenter/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marvincarpenter-blue?style=flat&logo=linkedin"></a>
