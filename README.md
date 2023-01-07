@@ -65,6 +65,19 @@ Here are some ideas to get you started:
 - Manage and maintain Git repositories for all PowerShell, Jenkins, Python and Chef projects.
 -------------------------- ---------------------------------- ---------------------
 **Systems Engineer** | **Concurrency, Inc - Chicago, IL** | **6/2014 - 3/2016**
+- Creation and implementation of PowerShell Scripting, Remoting, and Automation
+  - Create PowerShell scripts and SMA Runbooks for automated server deployment.
+    - Create scripts and runbooks to automate virtual machine builds with VMWare PowerCLI.
+    - Create scripts and runbooks to automate virtual machine builds with HyperV.
+    - Create scripts and runbooks to automate processes in SCCM.
+- Architecture, design, implementation, and administration of core Windows Server roles:
+  - Management and administration of Active Directory Users and Computers.
+  - Management and administration of Active Directory Sites and Services.
+  - Management and administration of Group Policy.
+  - Management and administration of DNS and DHCP and DFS.
+- Architecture, design, implementation, and administration of Windows Server 2012 R2 Hyper-V.
+- Architecture, design, implementation, and administration Microsoft System Center 2012 R2
+  - Virtual Machine Manager, Configuration Manager, Service Manager
 
 ### Reach me at
 
