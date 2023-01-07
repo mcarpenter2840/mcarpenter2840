@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - Develop Windows software packages using Chocolatey.
 - Manage and maintain Git repositories for all PowerShell, Jenkins, Python and Chef projects.
 -------------------------- ---------------------------------- ---------------------
-#### **Lead Systems Engineer - CME Group - Chicago, IL - 4/2016 - Present**
+**Systems Engineer** | **Concurrency, Inc - Chicago, IL** | **6/2014 - 3/2016**
 
 ### Reach me at
 
