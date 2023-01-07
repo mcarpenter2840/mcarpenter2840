@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    I am a Seasoned Windows DevOps Engineer with experience in network/system administration and Windows infrastructure engineering with a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
+    Seasoned Windows DevOps Engineer with experience in network/system administration, Windows infrastructure engineering. Also supporting, automating, and optimizing deployments in AWS, GCP, and Azure. With a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
 </p>
 
 ### Tech Stack
