@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am a Seasoned Windows DevOps Engineer with experience in network/system administration and Windows infrastructure engineering with a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
+<p>
+    I am a Seasoned Windows DevOps Engineer with experience in network/system administration and Windows infrastructure engineering with a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
+</p>
 
 ### Tech Stack
 <p>
@@ -33,6 +34,13 @@ I am a Seasoned Windows DevOps Engineer with experience in network/system admini
     <img height="50" width="50" src="https://simpleicons.org/icons/windows.svg" style="vertical-align:top; margin:4px"/>
     <img height="50" width="50" src="https://simpleicons.org/icons/linux.svg" style="vertical-align:top; margin:4px"/>
 </p>
+
+### Education
+###### **Bachelors in Applied Science in Computer Networking**
+**Davenport University, Grand Rapids, MI - June 2009**
+
+###### **Associates in Applied Science in Computer Information Systems**
+**Ivy Tech State College, Gary, IN - May 2003**
 
 ### Reach me at
 
