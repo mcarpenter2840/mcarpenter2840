@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 
 ### Industry Certification:
 <p>
-    <img height="150" width="150" src="images/network+certified.jpg" style="vertical-align:top; margin:4px"/>
+    <img height="150" width="150" src="/images/network+certified.jpg" style="vertical-align:top; margin:4px"/>
 </p>
 
 ### Reach me at
