@@ -113,6 +113,12 @@ Here are some ideas to get you started:
 - Infrastructure as Code: Terraform, Git, AWS CloudFormation, Azure Bicep, ARM Templates
 - Configuration Management: Chef, Ansible, SCCM, DSC, InSpec, Chocolatey
 - Scripting/Programming Languages: PowerShell, Python, Groovy, C#, Java
+
+### Industry Certification:
+<p>
+    <img height="150" width="150" src="images/network+certified.jpg" style="vertical-align:top; margin:4px"/>
+</p>
+
 ### Reach me at
 
 <a href="https://www.linkedin.com/in/marvincarpenter/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marvincarpenter-blue?style=flat&logo=linkedin"></a>
