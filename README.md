@@ -109,10 +109,29 @@ Here are some ideas to get you started:
   - CINT252 Routers & Firewalls
 
 ### Skills:
-- Cloud: Amazon Web Services, Google Cloud Platform, Microsoft Azure
-- Infrastructure as Code: Terraform, Git, AWS CloudFormation, Azure Bicep, ARM Templates
-- Configuration Management: Chef, Ansible, SCCM, DSC, InSpec, Chocolatey
-- Scripting/Programming Languages: PowerShell, Python, Groovy, C#, Java
+- Cloud: 
+  - Amazon Web Services
+  - Google Cloud Platform
+  - Microsoft Azure
+- Infrastructure as Code: 
+  - Terraform
+  - Git
+  - AWS CloudFormation
+  - Azure Bicep
+  - ARM Templates
+- Configuration Management: 
+  - Chef
+  - Ansible
+  - SCCM
+  - DSC
+  - InSpec
+  - Chocolatey
+- Scripting/Programming Languages: 
+  - PowerShell 
+  - Python
+  - Groovy
+  - C#
+  - Java
 
 ### Reach me at
 
