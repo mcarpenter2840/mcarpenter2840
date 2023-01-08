@@ -107,6 +107,12 @@ Here are some ideas to get you started:
   - CINS137 Introductory and CINS 237 Advanced Visual Basic
   - CINS136 Introductory and CINS236 Advanced Java Programming
   - CINT252 Routers & Firewalls
+
+### Skills:
+- Cloud: Amazon Web Services, Google Cloud Platform, Microsoft Azure
+- Infrastructure as Code: Terraform, Git, AWS CloudFormation, Azure Bicep, ARM Templates
+- Configuration Management: Chef, Ansible, SCCM, DSC, InSpec, Chocolatey
+- Scripting/Programming Languages: PowerShell, Python, Groovy, C#, Java
 ### Reach me at
 
 <a href="https://www.linkedin.com/in/marvincarpenter/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marvincarpenter-blue?style=flat&logo=linkedin"></a>
