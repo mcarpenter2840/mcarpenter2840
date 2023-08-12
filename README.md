@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    Seasoned Windows DevOps Engineer with experience in network/system administration, Windows infrastructure engineering. Also supporting, automating, and optimizing deployments in AWS, GCP, and Azure. With a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
+    As an accomplished Windows DevOps Engineer, I specialize in the intricate realms of network and system administration, along with Windows infrastructure engineering. My expertise extends to supporting, automating, and optimizing deployments across leading cloud platforms such as AWS, GCP, and Azure. With a keen focus on automation, I adeptly harness industry-standard tools including PowerShell, Python, Jenkins, Chef, Terraform, Ansible, and Chocolatey. My approach is rooted in innovation and efficiency, ensuring streamlined processes and robust solutions that align with the ever-evolving demands of modern technology landscapes.
 </p>
 
 ### Tech Stack
@@ -45,24 +45,27 @@ Here are some ideas to get you started:
 ### Professional Experience
 **Lead Systems Engineer** | **CME Group, Inc - Chicago, IL** | **4/2016 - Present**
 
-**Highlights:**
-- [x] Automated deployments for Windows server fleet using PowerShell, Python, Groovy, and Jenkins Pipelines.
-- [x] Developed Jenkins Pipeline for automating creation of Windows AWS AMIs.
-- [x] Developed packer scripts for automating creation of Windows GCP images.
-- [x] Developed Jenkins Pipeline for automating creation of Azure Service Fabric clusters.
-- [x] Developed Service Management Automation workflows for automated server provisioning.
-- [x] Developed Jenkins Pipeline to automate updating of third-party Chocolatey packages.
-- [x] Developed PowerShell module that allows developers to manage Chef deployments in Dev/QA
-- [x] Mentor, train and develop Junior and Senior Systems Administrators on the team.
--------------------------- ---------------------------------- ---------------------
-- Design, develop, test and document new automated solutions to improve current or create new processes using PowerShell.
-- Design, develop, test and document PowerShell modules and scripts to support fully automated deployments.
-- Design, develop, test and document Chef recipes and cookbooks for configuration management and automated server deployments.
-- Design, develop, test and document PowerShell Desired State Configuration scripts for configuration management and automated server deployments.
-- Design, develop, test and document Pester scripts and InSpec profiles to support test driven development.
-- Design, develop, test, and document Jenkins pipelines using PowerShell and Python.
-- Develop Windows software packages using Chocolatey.
-- Manage and maintain Git repositories for all PowerShell, Jenkins, Python and Chef projects.
+**Automation and Deployment:**
+- Orchestrated and automated deployments across the Windows server fleet, utilizing a sophisticated blend of PowerShell, Python, Groovy, and Jenkins Pipelines, enhancing efficiency and consistency in the deployment process.
+- Engineered Jenkins Pipelines to seamlessly automate the creation of Windows AWS AMIs, Azure Service Fabric clusters, and the updating of third-party Chocolatey packages, - contributing to streamlined operations and reduced manual intervention.
+- Innovatively designed, developed, rigorously tested, and comprehensively documented new automated solutions using PowerShell, transforming existing processes or creating - novel workflows to drive organizational productivity.
+- Crafted specialized PowerShell modules and scripts, laying the foundation for fully automated deployments, and fostering a more agile and responsive infrastructure.
+- Skillfully developed Windows software packages using Chocolatey, aligning with best practices and ensuring compatibility and performance within the targeted environments.
+- Pioneered a PowerShell module tailored to developers, enabling them to manage Chef deployments in Dev/QA environments with ease and precision, thereby bridging the gap between development and operations.
+
+**Configuration Management:**
+- Engineered and implemented packer scripts to automate the creation of Windows images for both AWS and GCP, leveraging cutting-edge technologies to streamline the provisioning process and enhance deployment efficiency.
+- Conceptualized, designed, developed, meticulously tested, and thoroughly documented Chef recipes and cookbooks, creating a robust framework for configuration management and automated server deployments, thereby aligning with best practices and organizational goals.
+- Crafted sophisticated PowerShell Desired State Configuration scripts, establishing a seamless and reliable approach to configuration management and automated server deployments, fostering a more resilient and agile infrastructure.
+
+**Testing and Quality Assurance:**
+- Strategically designed, developed, rigorously tested, and comprehensively documented Pester scripts and InSpec profiles, creating a robust framework that empowers test-driven development, ensuring code quality, and aligning with industry best practices.
+- Innovatively crafted Jenkins pipelines using PowerShell and Python, establishing a seamless continuous integration and testing environment, enhancing collaboration between development and operations, and accelerating the deployment of applications and services.
+
+**Team Collaboration and Mentorship:**
+- Collaborate closely with the Platform Engineering and development teams to strategically rehost applications within Google Cloud Platform (GCP), leveraging cutting-edge technologies and methodologies to enhance reliability and scalability.
+- Oversaw and meticulously maintained Git repositories for a diverse array of projects encompassing PowerShell, Jenkins, Python, and Chef. With a focus on ensuring seamless collaboration, version control, and integrity across development cycles, reinforcing best practices and contributing to the successful execution of complex technological initiatives.
+- Act as a guiding mentor and educator within the team, investing in the professional growth of both Junior and Senior Systems Administrators. Through personalized training, hands-on guidance, and continuous development, I fostered a culture of excellence and collaboration, empowering team members to reach new heights in their careers and contribute effectively to our collective goals.
 -------------------------- ---------------------------------- ---------------------
 **Systems Engineer** | **Concurrency, Inc - Chicago, IL** | **6/2014 - 3/2016**
 - Creation and implementation of PowerShell Scripting, Remoting, and Automation
