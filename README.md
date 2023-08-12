@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    Seasoned Windows DevOps Engineer with experience in network/system administration, Windows infrastructure engineering. Also supporting, automating, and optimizing deployments in AWS, GCP, and Azure. With a focus on automation using industry standard automation tools such as PowerShell, Python, Jenkins, Chef, Terraform, Ansible and Chocolatey.
+    As an accomplished Windows DevOps Engineer, I specialize in the intricate realms of network and system administration, along with Windows infrastructure engineering. My expertise extends to supporting, automating, and optimizing deployments across leading cloud platforms such as AWS, GCP, and Azure. With a keen focus on automation, I adeptly harness industry-standard tools including PowerShell, Python, Jenkins, Chef, Terraform, Ansible, and Chocolatey. My approach is rooted in innovation and efficiency, ensuring streamlined processes and robust solutions that align with the ever-evolving demands of modern technology landscapes.
 </p>
 
 ### Tech Stack
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### Professional Experience
 **Lead Systems Engineer** | **CME Group, Inc - Chicago, IL** | **4/2016 - Present**
 
-**Automation and Deployment**
+**Automation and Deployment:**
 - Orchestrated and automated deployments across the Windows server fleet, utilizing a sophisticated blend of PowerShell, Python, Groovy, and Jenkins Pipelines, enhancing efficiency and consistency in the deployment process.
 - Engineered Jenkins Pipelines to seamlessly automate the creation of Windows AWS AMIs, Azure Service Fabric clusters, and the updating of third-party Chocolatey packages, - contributing to streamlined operations and reduced manual intervention.
 - Innovatively designed, developed, rigorously tested, and comprehensively documented new automated solutions using PowerShell, transforming existing processes or creating - novel workflows to drive organizational productivity.
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - Skillfully developed Windows software packages using Chocolatey, aligning with best practices and ensuring compatibility and performance within the targeted environments.
 - Pioneered a PowerShell module tailored to developers, enabling them to manage Chef deployments in Dev/QA environments with ease and precision, thereby bridging the gap between development and operations.
 
-**Configuration Management**
+**Configuration Management:**
 - Engineered and implemented packer scripts to automate the creation of Windows images for both AWS and GCP, leveraging cutting-edge technologies to streamline the provisioning process and enhance deployment efficiency.
 - Conceptualized, designed, developed, meticulously tested, and thoroughly documented Chef recipes and cookbooks, creating a robust framework for configuration management and automated server deployments, thereby aligning with best practices and organizational goals.
 - Crafted sophisticated PowerShell Desired State Configuration scripts, establishing a seamless and reliable approach to configuration management and automated server deployments, fostering a more resilient and agile infrastructure.
